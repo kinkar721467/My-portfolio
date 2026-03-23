@@ -81,7 +81,7 @@ const Hero = () => {
             <a href="#projects" className="bg-[var(--color-primary)] hover:bg-[#cc0000] text-[#ffffff] py-3 px-8 rounded-full font-medium transition-all neon-glow border border-transparent">
               View Projects
             </a>
-            <a href="/resume.pdf" download className="glassmorphism hover:bg-[rgba(255,30,30,0.1)] text-[var(--color-text)] py-3 px-8 rounded-full font-medium transition-all neon-glow border border-[var(--color-primary)]">
+            <a href="/kinkar_general_cv.doc" download="kinkar_general_cv.doc" className="glassmorphism hover:bg-[rgba(255,30,30,0.1)] text-[var(--color-text)] py-3 px-8 rounded-full font-medium transition-all neon-glow border border-[var(--color-primary)]">
               Download Resume
             </a>
             <a href="#contact" className="text-[var(--color-text-muted)] hover:text-[var(--color-primary)] font-medium transition-colors underline-offset-4 hover:underline">
