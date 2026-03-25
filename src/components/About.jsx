@@ -3,10 +3,10 @@ import { fadeIn, staggerContainer } from '../utils/motion';
 
 const About = () => {
   const strengths = [
-    { title: 'Problem Solving', icon: '🧠', desc: 'Analyzing complex requirements to engineer efficient solutions.' },
-    { title: 'Full Stack Development', icon: '💻', desc: 'Building seamless, end-to-end scalable web applications.' },
-    { title: 'Quick & Agile Learner', icon: '🚀', desc: 'Adapting to new technologies and paradigms rapidly.' },
-    { title: 'Team Collaboration', icon: '🤝', desc: 'Working effectively inside agile, cross-functional teams.' },
+    { title: 'Problem-Solving', icon: '🧠', desc: 'Analyzing complex requirements to engineer efficient solutions.' },
+    { title: 'Quick Learner', icon: '🚀', desc: 'Adapting to new technologies and paradigms rapidly.' },
+    { title: 'Team Player', icon: '🤝', desc: 'Working effectively inside agile, cross-functional teams.' },
+    { title: 'Adaptability', icon: '🌊', desc: 'Embracing change and flexible in fast-paced environments.' },
   ];
 
   return (
