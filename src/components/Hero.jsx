@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { FaGithub, FaLinkedin, FaEnvelope } from 'react-icons/fa';
 import ParticlesContainer from './ParticlesContainer';
 import { fadeIn, textVariant } from '../utils/motion';
-import heroImg from '../assets/hero.jpeg';
+import heroImg from '../assets/myphoto.jpeg';
 
 const Hero = () => {
   const [text, setText] = useState('');
