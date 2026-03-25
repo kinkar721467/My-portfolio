@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { FaGithub, FaExternalLinkAlt, FaTimes } from 'react-icons/fa';
 import { fadeIn, staggerContainer } from '../utils/motion';
+import weatherImg from '../assets/weather.png';
 
 const projects = [
   {
@@ -76,7 +77,7 @@ const projects = [
     tech: ['HTML5', 'CSS3', 'JavaScript', 'Weather API'],
     github: '#',
     demo: '#',
-    image: 'https://images.unsplash.com/photo-1504608524841-42ce6c2ce902?q=80&w=2070&auto=format&fit=crop'
+    image: weatherImg
   }
 ];
 
